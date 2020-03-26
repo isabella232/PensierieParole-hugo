@@ -1,4 +1,5 @@
-baseURL = "https://scribus79.github.io/PensierieParole-hugo/"
+baseURL = "https://scribus79.github.io/"
+#baseURL = "https://scribus79.github.io/PensierieParole-hugo/"
 title = "Pensieri, parole e progetti"
 #publishDir = "docs"
 theme = "hugo-coder"

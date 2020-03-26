@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Pensieri, parole e progetti</title>
-    <link>https://scribus79.github.io/PensierieParole-hugo/categories/</link>
+    <link>https://scribus79.github.io/categories/</link>
     <description>Recent content in Categories on Pensieri, parole e progetti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     
-	<atom:link href="https://scribus79.github.io/PensierieParole-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://scribus79.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
