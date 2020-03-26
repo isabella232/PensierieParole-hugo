@@ -10,11 +10,15 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
 #cd public
+
 # Check status
 git status
 
+cd public
+
 # Add changes to git.
-git add --all
+#git add --all
+git add .
 
 # Commit changes.
 msg="rebuilding site $(date)"
@@ -24,4 +28,7 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push
+#git push
+
+git push origin master
+
