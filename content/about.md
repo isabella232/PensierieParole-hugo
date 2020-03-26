@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2020-03-25T12:08:10+01:00
-draft: false
+#draft: false
 ---
 40enne, ingegnere, runner (molto) amatoriale... 
 Tanti progetti per la mente e poco tempo (spesso) per realizzarli, spero che questo periodo di riposo forzato mi aiuti a gestire il tempo libero e aiutarmi a darmi un metodo.
