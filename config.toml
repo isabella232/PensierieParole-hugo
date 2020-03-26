@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 title = "Pensieri, parole e progetti"
-
+publishDir = "docs"
 theme = "hugo-coder"
 languagecode = "it"
 defaultcontentlanguage = "it"
