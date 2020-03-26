@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://scribus79.github.io/PensierieParole-hugo/categories/</loc>
+    <loc>https://scribus79.github.io/PensierieParole-hugo/</loc>
+    <lastmod>2020-03-25T12:08:29+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://scribus79.github.io/PensierieParole-hugo/</loc>
+    <loc>https://scribus79.github.io/PensierieParole-hugo/progetti/</loc>
+    <lastmod>2020-03-25T12:08:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scribus79.github.io/PensierieParole-hugo/about/</loc>
+    <lastmod>2020-03-25T12:08:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scribus79.github.io/PensierieParole-hugo/categories/</loc>
   </url>
   
   <url>
