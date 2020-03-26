@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Pensieri, parole e progetti</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content in Categories on Pensieri, parole e progetti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Wed, 25 Mar 2020 11:53:25 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>scrittura</title>
+      <link>http://example.org/categories/scrittura/</link>
+      <pubDate>Wed, 25 Mar 2020 11:53:25 +0100</pubDate>
+      
+      <guid>http://example.org/categories/scrittura/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,66 @@
+baseURL = "http://example.org/"
+title = "Pensieri, parole e progetti"
+
+theme = "hugo-coder"
+languagecode = "it"
+defaultcontentlanguage = "it"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Karontes"
+    info = "Uno scrittore in erba, nerd, smanettore e tante altre cose"
+    description = "Karontes personal website"
+    keywords = "blog,scrittura,personal"
+    avatarurl = "/images/avatar.jpg"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = "Seguimi su Twitter"
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+# Social links
+#[[params.social]]
+#    name = "Github"
+#    icon = "fab fa-github fa-2x"
+#    weight = 1
+#    url = "https://github.com/johndoe/"
+#[[params.social]]
+#    name = "Gitlab"
+#    icon = "fab fa-gitlab fa-2x"
+#    weight = 2
+#    url = "https://gitlab.com/johndoe/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 1
+    url = "https://twitter.com/johndoe/"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
+[[menu.main]]
+    name = "Progetti"
+    weight = 3
+    url = "/Progetti/"
