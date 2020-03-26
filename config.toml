@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://scribus79.github.io/PensierieParole-hugo/"
 title = "Pensieri, parole e progetti"
 publishDir = "docs"
 theme = "hugo-coder"
