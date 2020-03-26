@@ -1,6 +1,6 @@
 baseURL = "https://scribus79.github.io/PensierieParole-hugo/"
 title = "Pensieri, parole e progetti"
-publishDir = "docs"
+#publishDir = "docs"
 theme = "hugo-coder"
 languagecode = "it"
 defaultcontentlanguage = "it"
