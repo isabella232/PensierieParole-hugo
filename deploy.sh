@@ -13,6 +13,7 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Check status
 git status
+git add --all
 
 cd public
 
