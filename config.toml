@@ -6,6 +6,8 @@ theme = "hugo-coder"
 languagecode = "it"
 defaultcontentlanguage = "it"
 
+googleAnalytics = "UA-162037951-1"  
+
 paginate = 20
 canonifyurls = true
 
@@ -13,7 +15,7 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "pensieri-parole-e-progetti"
 
 [params]
     author = "Karontes"
@@ -25,7 +27,7 @@ disqusShortname = "yourdiscussshortname"
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Seguimi su Twitter"
+    footercontent = "Il blog e sito personale di K      "
 
     hidecredits = false
     hidecopyright = false
@@ -50,7 +52,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
     weight = 1
-    url = "https://twitter.com/johndoe/"
+    url = "https://twitter.com/Kappa69550631"
 
 # Menu links
 [[menu.main]]
