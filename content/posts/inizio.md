@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2020-03-25T11:53:25+01:00
 title = "Un inizio in quarantena"
 description = ""

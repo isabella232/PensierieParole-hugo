@@ -6,20 +6,19 @@ set -e
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # Build the project.
-hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo -d ./scribus79.github.io
+
+# if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
-#cd public
+cd ./scribus79.github.io/
 
 # Check status
 git status
-git add --all
-
-cd public
 
 # Add changes to git.
-#git add --all
-git add .
+git add --all
+#git add .
 
 # Commit changes.
 msg="rebuilding site $(date)"

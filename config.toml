@@ -21,7 +21,7 @@ disqusShortname = "pensieri-parole-e-progetti"
     author = "Karontes"
     info = "Uno scrittore in erba, nerd, smanettore e tante altre cose"
     description = "Karontes personal website"
-    keywords = "blog,scrittura,personal"
+    keywords = "blog,scrittura,personale"
     avatarurl = "/images/avatar.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"

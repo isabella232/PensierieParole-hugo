@@ -9,8 +9,6 @@ categories = ["scrittura"]
 externalLink = ""
 series = []
 +++
-Perché leggere un ennesimo blog?
-
 Perché, mi chiedo, un internauta deve fermarsi a leggere le mie parole, non sono di certo le uniche nel web, nè sono di qualche personaggio famoso...
 Forse sarà un atto di vanità o di superbia, tuttavia sento di dover scrivere, indipendentemente dal fatto che abbia un seguito o no...
 

@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Perché leggere un ennesimo blog?</title>
+      <link>https://scribus79.github.io/posts/perche/</link>
+      <pubDate>Fri, 27 Mar 2020 12:27:22 +0100</pubDate>
+      
+      <guid>https://scribus79.github.io/posts/perche/</guid>
+      <description>Perché leggere un ennesimo blog?</description>
+    </item>
+    
+    <item>
       <title>Progetti</title>
       <link>https://scribus79.github.io/progetti/</link>
       <pubDate>Wed, 25 Mar 2020 12:08:29 +0100</pubDate>
@@ -30,6 +39,15 @@
       <description>40enne, ingegnere, runner (molto) amatoriale&amp;hellip; Tanti progetti per la mente e poco tempo (spesso) per realizzarli, spero che questo periodo di riposo forzato mi aiuti a gestire il tempo libero e aiutarmi a darmi un metodo.
 Sto iniziando a creare questo sito statico con Hugo e GitHub, ho scelto un tema free molto minimalista ed essenziale, come vorrei che fosse questo sito.
 K</description>
+    </item>
+    
+    <item>
+      <title>Un inizio in quarantena</title>
+      <link>https://scribus79.github.io/posts/inizio/</link>
+      <pubDate>Wed, 25 Mar 2020 11:53:25 +0100</pubDate>
+      
+      <guid>https://scribus79.github.io/posts/inizio/</guid>
+      <description>Sono in quarantena da 16 giorni e devo assolutamente dare sfogo ad una sorta di energia che sento dentro da qualche tempo&amp;hellip; Forse qualcuno la chiamerà creatività, spirito di inventiva&amp;hellip; non so cosa sia in realtà ma sento di dover scrivere. E&amp;rsquo; da molto tempo che cerco un modo, un metodo, un angolo per me&amp;hellip; forse questa sosta forzata mi aiuterà a trovarli. Non so ancora i tempi, i temi, i modi ma è un inizio e quindi non bisogna farsi troppe domande.</description>
     </item>
     
   </channel>

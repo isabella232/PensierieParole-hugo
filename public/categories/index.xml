@@ -6,9 +6,19 @@
     <description>Recent content in Categories on Pensieri, parole e progetti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
+    <lastBuildDate>Wed, 25 Mar 2020 11:53:25 +0100</lastBuildDate>
     
 	<atom:link href="https://scribus79.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>scrittura</title>
+      <link>https://scribus79.github.io/categories/scrittura/</link>
+      <pubDate>Wed, 25 Mar 2020 11:53:25 +0100</pubDate>
+      
+      <guid>https://scribus79.github.io/categories/scrittura/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
