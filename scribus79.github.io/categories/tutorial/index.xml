@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tutorial on Pensieri, parole e progetti</title>
+    <link>https://scribus79.github.io/categories/tutorial/</link>
+    <description>Recent content in tutorial on Pensieri, parole e progetti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Mon, 30 Mar 2020 19:47:18 +0200</lastBuildDate>
+    
+	<atom:link href="https://scribus79.github.io/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Un sito gratis grazie alla potenza del software open source</title>
+      <link>https://scribus79.github.io/posts/software/</link>
+      <pubDate>Mon, 30 Mar 2020 19:47:18 +0200</pubDate>
+      
+      <guid>https://scribus79.github.io/posts/software/</guid>
+      <description>Questo blog è completamente open source. Nato su Linux, scritto con Visual Studio Code, ospitato su Github. Il costo di tutto questo è zero! Non sono un programmatore nè un tecnico dell&amp;rsquo;IT ma con un po di passione, pazienza (molta) e un po di tempo penso che ci possa riuscire chiunque. Visto che ci ho messo parecchio tempo e che forse non tutti sono in grado di leggere guide su internet in inglese o video in lingua su Youtube ho pensato di creare questa guida.</description>
+    </item>
+    
+  </channel>
+</rss>
