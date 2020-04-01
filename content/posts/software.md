@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2020-03-30T19:47:18+02:00
-title = "Un sito gratis grazie alla potenza del software open source"
+title = "Un sito gratis grazie al software open source"
 description = ""
 slug = "" 
 tags = ["quarantena", "software"]
@@ -34,6 +34,9 @@ Ci sono molte altre funzionalità, formattazioni, tag, ecc... ma per iniziare le
 * Un browser funzionante (suggerisco Firefox)
 * Un minimo di conoscenza di Linux e di programmazione
 * Un account su [GitHub](https://github.com/) - Tranquilli è gratis :)
+
+Tutti i software citati qui sono open source e gratis, questo secondo me è il bello di Internet e della comunità opensource!
+
 
 # Installare Hugo
 
