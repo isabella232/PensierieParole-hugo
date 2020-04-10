@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>elenco on Pensieri, parole e progetti</title>
+    <link>https://scribus79.github.io/tags/elenco/</link>
+    <description>Recent content in elenco on Pensieri, parole e progetti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Wed, 25 Mar 2020 12:08:29 +0100</lastBuildDate>
+    
+	<atom:link href="https://scribus79.github.io/tags/elenco/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Progetti</title>
+      <link>https://scribus79.github.io/progetti/</link>
+      <pubDate>Wed, 25 Mar 2020 12:08:29 +0100</pubDate>
+      
+      <guid>https://scribus79.github.io/progetti/</guid>
+      <description>La lista potrebbe essere lunga ma iniziamo dai topic:
+ Scrittura +++ categories = [&amp;ldquo;progetti&amp;rdquo;] +++ Linux +++ categories = [&amp;ldquo;progetti&amp;rdquo;] +++ Libri Corsa +++ tag = [&amp;ldquo;corsa&amp;rdquo;] +++ Stampa 3d &amp;hellip;  </description>
+    </item>
+    
+  </channel>
+</rss>

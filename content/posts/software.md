@@ -216,6 +216,7 @@ hugo -d ./nomeutente.github.io
 ```
 Infine proviamo a caricare il contenuto del sito sul repository di GitHub:
 ```
+cd ./nomeutente.github.io
 git status
 git add --all
 git commit -m "Initial commit"

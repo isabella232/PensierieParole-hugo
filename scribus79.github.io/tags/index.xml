@@ -6,17 +6,44 @@
     <description>Recent content in Tags on Pensieri, parole e progetti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 30 Mar 2020 19:47:18 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2020 15:18:29 +0200</lastBuildDate>
     
 	<atom:link href="https://scribus79.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>pensieri</title>
+      <link>https://scribus79.github.io/tags/pensieri/</link>
+      <pubDate>Wed, 08 Apr 2020 15:18:29 +0200</pubDate>
+      
+      <guid>https://scribus79.github.io/tags/pensieri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>quarantena</title>
       <link>https://scribus79.github.io/tags/quarantena/</link>
-      <pubDate>Mon, 30 Mar 2020 19:47:18 +0200</pubDate>
+      <pubDate>Wed, 08 Apr 2020 15:18:29 +0200</pubDate>
       
       <guid>https://scribus79.github.io/tags/quarantena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>corsa</title>
+      <link>https://scribus79.github.io/tags/corsa/</link>
+      <pubDate>Sat, 04 Apr 2020 19:09:59 +0200</pubDate>
+      
+      <guid>https://scribus79.github.io/tags/corsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personale</title>
+      <link>https://scribus79.github.io/tags/personale/</link>
+      <pubDate>Sat, 04 Apr 2020 19:09:59 +0200</pubDate>
+      
+      <guid>https://scribus79.github.io/tags/personale/</guid>
       <description></description>
     </item>
     
@@ -30,15 +57,6 @@
     </item>
     
     <item>
-      <title>corsa</title>
-      <link>https://scribus79.github.io/tags/corsa/</link>
-      <pubDate>Sun, 29 Mar 2020 18:35:17 +0200</pubDate>
-      
-      <guid>https://scribus79.github.io/tags/corsa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>libri</title>
       <link>https://scribus79.github.io/tags/libri/</link>
       <pubDate>Sun, 29 Mar 2020 18:35:17 +0200</pubDate>
@@ -48,11 +66,11 @@
     </item>
     
     <item>
-      <title>pensieri</title>
-      <link>https://scribus79.github.io/tags/pensieri/</link>
-      <pubDate>Sun, 29 Mar 2020 18:35:17 +0200</pubDate>
+      <title>elenco</title>
+      <link>https://scribus79.github.io/tags/elenco/</link>
+      <pubDate>Wed, 25 Mar 2020 12:08:29 +0100</pubDate>
       
-      <guid>https://scribus79.github.io/tags/pensieri/</guid>
+      <guid>https://scribus79.github.io/tags/elenco/</guid>
       <description></description>
     </item>
     
