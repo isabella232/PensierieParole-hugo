@@ -23,7 +23,7 @@ Mi dicevo che 5km fossero un buon traguardo, che in fondo a me di quelle corse l
 
 Poi è morto un collega, il povero C.
 
-Vidi la moglie e le figlie, capii che non era normale camminare per 2000 passi al giorno, che il corpo aveva bisogno di più. 
+Vidi la moglie e le figlie, capii che non era normale camminare per 2000 passi al giorno, che il corpo aveva bisogno di più.
 Iniziai a documentarmi a capire come correre, perchè e come allenarmi.
 Iniziai a superare i 5km e poi i 10... insomma inziai a correre dai 45 minuti all'ora ed un quarto e più correvo e più mi piaceva!
 
@@ -36,11 +36,11 @@ Poi arrivò la domicilizzazione forzata...
 
 All'inizio (quando si poteva) ho fatto un paio di corsette, la gamba c'era, il fiato pure e i tempi erano interessanti ma ora non corro da quasi un mese e mi manca.
 
-La cosa che mi dispiace di più è che i _*runners*_ sono passati per essere gli untori e questo mi dispiace. Per me la corsa è stare al contatto con la natura, vivere all'aria aperta, soffrire un po' per stare (molto) meglio dopo... 
+La cosa che mi dispiace di più è che i _*runners*_ sono passati per essere gli untori e questo mi dispiace. Per me la corsa è stare al contatto con la natura, vivere all'aria aperta, soffrire un po' per stare (molto) meglio dopo...
 
 Ci saranno di certo pure gli invasati, i _*fuorilegge*_ e chi non capisce il rispetto per gli altri, ma correre e buona parte dei runners non sono così.
 
-Vivo in un paesino, vicino a casa mia c'è una pista ciclabile e sarebbe bello correre la sera o al mattino presto, in solitaria. 
+Vivo in un paesino, vicino a casa mia c'è una pista ciclabile e sarebbe bello correre la sera o al mattino presto, in solitaria.
 
 Ultimamente si sta mettendo in dubbio anche il limite del metro di distanza tra le persone, se fosse così non solo correre ma anche far la spesa sarebbe rischioso, per non parlare di ritirare il pacco che ti consegnano a casa o incrociare un vicino di casa sulle scale, per chi abita in condominio.
 

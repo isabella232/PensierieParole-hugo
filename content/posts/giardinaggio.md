@@ -37,4 +37,3 @@ Se avete suggerimenti sono ben accetti... tra l'altro ho avviato un altro proget
 A presto
 
 K.
-

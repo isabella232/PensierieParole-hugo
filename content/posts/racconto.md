@@ -69,7 +69,7 @@ Il sorriso faceva presagire un sentimento sincero di curiosità.
 
 Lui era più riservato e non svelava molto cosa gli passasse per la testa, a Marco questo non piacque, il suo spirito malfidente vedeva un potenziale rischio in tutto ciò ma lui cercò di dissumilarlo.
 
-"E' un piacere mio stare qui con te e tuo marito, dopo tanto chattare finalmente ti vedo in tutto il tuo splendore e di persona!" - rispose Marco. 
+"E' un piacere mio stare qui con te e tuo marito, dopo tanto chattare finalmente ti vedo in tutto il tuo splendore e di persona!" - rispose Marco.
 Lei ricambiò con un dolce sorriso mentre parve che anche il marito si stesse rilassando
 
 -- Si rilassa perchè pensa che sto abbassando la guardia? che sti cadendo nel tranello? -- pensò Marco ma non c'era modo di capirlo, aveva solo due strade: rimanere e capire come andava a finire o scappare.
@@ -102,8 +102,7 @@ A questa battuta tutti e tre sorrisero e lei si sciolse ancora un po, anche il m
 
 "Un mohito"
 
-Marco fece un cenno al cameriere, che stava passando nella sala a fianco ma che lo vide dalla porta. Si avvicinò e prese velocemente le ordinazioni. 
+Marco fece un cenno al cameriere, che stava passando nella sala a fianco ma che lo vide dalla porta. Si avvicinò e prese velocemente le ordinazioni.
 
 Appena il cameriere se ne fu andato i tre si lanciarono uno sguardo complice, anche un po' colpevole... Marco ebbe la sensazione che tutti e tre stessero pensado se il cameriere avesse udito o sospettato qualcosa circa il loro incontro.
 Ci fu un momento di silenzio, poi Giulia riprese:
-
